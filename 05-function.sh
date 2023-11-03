@@ -1,5 +1,6 @@
 sample() {
-  echo Hello
+  echo $#
+  echo $*
 }
 
-sample
+sample Hello World
