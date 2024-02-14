@@ -1,3 +1,6 @@
 [submodule "roboshop"]
 	path = roboshop
 	url = https://github.com/raghudevopsb76/expense-shell
+[submodule "helm"]
+	path = helm
+	url = https://github.com/raghudevopsb76/roboshop-helm-chart
